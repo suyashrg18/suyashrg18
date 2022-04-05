@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suyashrg18
-- 👀 A web and app development enthusiast
+- 👀 A web and mobile app development enthusiast
 - 🌱 constant learner
 
 <!---
